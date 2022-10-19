@@ -1,0 +1,2 @@
+Além de auxiliar no controle e organização, o versionamento também é muito importante para a segurança de um projeto. Com esse sistema que permite distinguir as mudanças feitas por cada membro da equipe, é possível distinguir e averiguar cada upgrade feito no projeto. 
+O versionamento também permite reparação de eventuais bugs, pois possibilita a volta de versões anteriores do projeto.
